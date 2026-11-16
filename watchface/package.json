@@ -1,0 +1,40 @@
+{
+  "name": "margin-watch",
+  "version": "0.1.1",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Margin",
+    "uuid": "c0420ea6-5f10-4833-9145-9576001f4706",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "Foreground",
+      "Accent",
+      "TimeFormat",
+      "DateFormat"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

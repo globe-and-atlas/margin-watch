@@ -1,0 +1,10 @@
+{
+  "prefix": "MARGIN",
+  "flags": {
+    "MARGIN_FIXTURE": "1",
+    "MARGIN_HOUR": "10",
+    "MARGIN_MINUTE": "8",
+    "MARGIN_SECOND": "30",
+    "MARGIN_BATTERY": "82"
+  }
+}

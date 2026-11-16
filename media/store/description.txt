@@ -1,0 +1,15 @@
+Big time, with the details in the margin.
+
+Margin places oversized hours above minutes, beside a slim date and battery column. A small progress line follows the minute within the hour.
+
+Make it yours:
+- Six palettes: Paper, Cream, Night, Ice, Mint, and Plum.
+- Custom background, text, and accent colors.
+- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.
+- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+- Numeric dates stack vertically in the selected order.
+- Live battery icon and percentage.
+
+The animated preview cycles through the six palettes. Select a palette in settings; the watchface keeps your chosen colors.
+
+For Pebble Time 2.

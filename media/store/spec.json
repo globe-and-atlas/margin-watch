@@ -1,0 +1,34 @@
+{
+  "name": "Margin",
+  "slug": "Margin",
+  "prefix": "MARGIN_",
+  "frames": [
+    "margin-palette-0.png",
+    "margin-palette-1.png",
+    "margin-palette-2.png",
+    "margin-palette-3.png",
+    "margin-palette-4.png",
+    "margin-palette-5.png"
+  ],
+  "labels": [
+    "Paper",
+    "Cream",
+    "Night",
+    "Ice",
+    "Mint",
+    "Plum"
+  ],
+  "stills": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "icon_crop": [
+    0,
+    0,
+    200,
+    228
+  ],
+  "description": "Big time, with the details in the margin.\n\nMargin places oversized hours above minutes, beside a slim date and battery column. A small progress line follows the minute within the hour.\n\nMake it yours:\n- Six palettes: Paper, Cream, Night, Ice, Mint, and Plum.\n- Custom background, text, and accent colors.\n- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.\n- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.\n- Numeric dates stack vertically in the selected order.\n- Live battery icon and percentage.\n\nThe animated preview cycles through the six palettes. Select a palette in settings; the watchface keeps your chosen colors.\n\nFor Pebble Time 2."
+}

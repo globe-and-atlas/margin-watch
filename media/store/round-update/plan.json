@@ -1,0 +1,27 @@
+{
+  "repo": "margin-watch",
+  "name": "Margin",
+  "version": "0.1.1",
+  "uuid": "c0420ea6-5f10-4833-9145-9576001f4706",
+  "artifact": "/Users/danielbally/Git/margin-watch/dist/Margin-0.1.1.pbw",
+  "sha256": "0ef44160c776a92f9394fa5338004be6bc3d1bb161e5b211de81368a90c86f25",
+  "platform_binary_sha256": {
+    "emery": "5dc0ee832dd88e3028006310fc6a1aa629f269abd99ef8802a535d3e22e76fa6",
+    "chalk": "14bb927a9f3f05064e4b69655e824e48abfed07425729408d61adb9f8ef1ae41",
+    "gabbro": "dfd84a039d172479395c9a525b0c8f0d0f9f84cfb3ac237f1413fc04f2e4a027"
+  },
+  "app_id": "f08ced3e3a9a47efb297dd3c",
+  "screenshots": [
+    "/Users/danielbally/Git/margin-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/margin-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/margin-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/margin-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "chalk_01_round.png": "253ceed6662242c43e8095c905e3d7720e7135570abfec4d783be9070287a50c",
+    "chalk_02_round.png": "4aa330a9e1ff29581149faafa91ef5086df41987c15d9a12e27f2616c153094e",
+    "gabbro_01_round.png": "b3817347de665e7c034db49f4321eb61c2dd5cc1fc0cbe857c28c3dd3986edfd",
+    "gabbro_02_round.png": "3a163816c5289a904e18b7ae22e92f9766cece1b5aa37c8df80920f6eadd6524"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}

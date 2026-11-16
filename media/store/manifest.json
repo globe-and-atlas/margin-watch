@@ -1,0 +1,39 @@
+{
+  "name": "Margin",
+  "screenshots": [
+    "emery_01_palettes.gif",
+    "emery_02_palette.png",
+    "emery_03_palette.png",
+    "emery_04_palette.png",
+    "emery_05_palette.png"
+  ],
+  "frame_sources": [
+    "margin-palette-0.png",
+    "margin-palette-1.png",
+    "margin-palette-2.png",
+    "margin-palette-3.png",
+    "margin-palette-4.png",
+    "margin-palette-5.png"
+  ],
+  "palette_names": [
+    "Paper",
+    "Cream",
+    "Night",
+    "Ice",
+    "Mint",
+    "Plum"
+  ],
+  "durations_ms": [
+    3000,
+    2500,
+    2500,
+    2500,
+    2500,
+    2500
+  ],
+  "size": [
+    200,
+    228
+  ],
+  "gif_sha256": "cddf7c17b965d134239505e101a3f9bd76250faa665a31a86132e4edf4334382"
+}

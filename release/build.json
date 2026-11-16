@@ -1,0 +1,36 @@
+{
+  "name": "Margin",
+  "repo": "margin-watch",
+  "app_id": "f08ced3e3a9a47efb297dd3c",
+  "version": "0.1.1",
+  "uuid": "c0420ea6-5f10-4833-9145-9576001f4706",
+  "url": "https://apps.repebble.com/f08ced3e3a9a47efb297dd3c",
+  "pbw_sha256": "0ef44160c776a92f9394fa5338004be6bc3d1bb161e5b211de81368a90c86f25",
+  "public_verified": true,
+  "screenshot_results": {
+    "uploaded": [
+      {
+        "platform": "chalk",
+        "filename": "chalk_01_round.png",
+        "url": "/api/assets/screenshots/f08ced3e3a9a47efb297dd3c/chalk/de09ec65-418e-49a7-986d-a3a0a219b790.png"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_02_round.png",
+        "url": "/api/assets/screenshots/f08ced3e3a9a47efb297dd3c/chalk/a87eca2f-06b9-40dc-b30b-14eae6fe0ff9.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_01_round.png",
+        "url": "/api/assets/screenshots/f08ced3e3a9a47efb297dd3c/gabbro/2d316c1b-71b3-404f-8255-dd16afefb1cf.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_02_round.png",
+        "url": "/api/assets/screenshots/f08ced3e3a9a47efb297dd3c/gabbro/adfd2915-1fde-413b-93f8-6ec7da28d5fa.png"
+      }
+    ],
+    "failed": []
+  },
+  "published": true
+}

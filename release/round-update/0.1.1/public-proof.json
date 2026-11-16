@@ -1,0 +1,25 @@
+{
+  "name": "Margin",
+  "repo": "margin-watch",
+  "version": "0.1.1",
+  "url": "https://apps.repebble.com/f08ced3e3a9a47efb297dd3c",
+  "pbw_exact": true,
+  "native_round_pixels_exact": true,
+  "matched_round_urls": [
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/chalk/de09ec65-418e-49a7-986d-a3a0a219b790.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/chalk/a87eca2f-06b9-40dc-b30b-14eae6fe0ff9.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/gabbro/2d316c1b-71b3-404f-8255-dd16afefb1cf.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/gabbro/adfd2915-1fde-413b-93f8-6ec7da28d5fa.png"
+  ],
+  "existing_gallery_preserved": true,
+  "animated_preview_first": true,
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/emery/df991bb4-8a09-409f-9afc-b7023b720288.gif",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/emery/0ba04957-1f32-48bc-9be2-88bd7d2c8a66.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/emery/aa4d3966-dbc0-45e8-8b0e-c7b86302a179.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/emery/9c0e4b46-a9f5-4894-b791-f9b1ddddbd36.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/emery/42809d45-d60a-41b0-a11c-fd2498bab65c.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/chalk/de09ec65-418e-49a7-986d-a3a0a219b790.png",
+    "https://assets.repebble.com/screenshots/f08ced3e3a9a47efb297dd3c/gabbro/2d316c1b-71b3-404f-8255-dd16afefb1cf.png"
+  ]
+}
